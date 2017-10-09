@@ -1,5 +1,4 @@
 ![A](images/A.png)
 ![B](images/B.png)
 ![C](images/C.png)
-![D](images/D.png)
 ![E](images/E.png)
